@@ -19,13 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hello my name is Harshit srivastava a sophomore student at PDPM Indian Institute of Information Technology,Design and Manufacturing,Jabalpur having a good acadmic record over the years with a GPA of 8.4.I am a PERN stack developer and prefer to learn on the go by building projects. I have multiple projects which helped me to get a decent hand on developing web apps.',
+    'Hello my name is Harshit srivastava a prefinal year student at Indian Institute of Information Technology,Design and Manufacturing,Jabalpur having a good acadmic record over the years with a GPA of 8.6.I am a full stack developer and prefer to learn on the go by building projects. I have multiple projects which helped me to get a decent hand on developing web apps.',
   paragraphTwo:
     'Equipped with an inquisitive mindset, I am often the one to explore things outside my comfort zone to learn more. Being an efficient programmer with apposite problem solving skills, I have practised over 400 questions from Codechef, Codeforces, GeeksForGeeks, and Hackerrank which helped me achieve a strong grasp over concepts of data structures and algorithms. Currently, I hold a rating of 1812 at Codechef (harshit__2300). I function well independently and in synergy with my peers.',
   paragraphThree:
     'Being proficient in English speaking with good communication skills I love sharing ideas with different people with different mindsets.',
 
-  resume: 'https://app.luminpdf.com/viewer/6093b84f13724b0011c1fe5f', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1qlcr9n_yke_VN9UEEImY7qJYZLXvWcIP/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
