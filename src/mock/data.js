@@ -32,13 +32,13 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'smartbrain-1.png',
-    title: 'Smart-brain',
+    img: 'practice_resource.png',
+    title: 'Practice-resource',
     info:
-      'A web app developed using PERN stack a robust app where machine learning clarifai api called to dectect face in a image also the user login credentials are encrypted using bcrypt and stores in a secured manner in PostgreSQL database',
+      'A progress tracker MERN stack application which has groups of good data-structure and algorithm quesitons where one can practise and improve his problem solving skills by keeping track of his progress',
     info2: '',
-    url: 'https://smart-brain-2300.herokuapp.com/',
-    repo: 'https://github.com/harshit-2300/smartbrain-api', // if no repo, the button will not show up
+    url: '',
+    repo: 'https://github.com/harshit-2300/practise-resource', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -50,6 +50,18 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/harshit-2300/blood_bank', // if no repo, the button will not show up
   },
+  {
+    
+    id: nanoid(),
+    img: 'smartbrain-1.png',
+    title: 'Smart-brain',
+    info:
+      'A web app developed using PERN stack a robust app where machine learning clarifai api called to dectect face in a image also the user login credentials are encrypted using bcrypt and stores in a secured manner in PostgreSQL database',
+    info2: '',
+    url: 'https://smart-brain-2300.herokuapp.com/',
+    repo: 'https://github.com/harshit-2300/smartbrain-api', // if no repo, the button will not show up
+  },
+  
   {
     id: nanoid(),
     img: 'miniquora.png',
