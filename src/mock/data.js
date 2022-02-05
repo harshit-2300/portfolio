@@ -21,11 +21,12 @@ export const aboutData = {
   paragraphOne:
     'Hello my name is Harshit srivastava a prefinal year student at Indian Institute of Information Technology,Design and Manufacturing,Jabalpur having a good acadmic record over the years with a GPA of 8.6.I am a full stack developer and prefer to learn on the go by building projects. I have multiple projects which helped me to get a decent hand on developing web apps.',
   paragraphTwo:
-    'Equipped with an inquisitive mindset, I am often the one to explore things outside my comfort zone to learn more. Being an efficient programmer with apposite problem solving skills, I have practised over 400 questions from Codechef, Codeforces, GeeksForGeeks, and Hackerrank which helped me achieve a strong grasp over concepts of data structures and algorithms. Currently, I hold a rating of 1812 at Codechef (harshit__2300). I function well independently and in synergy with my peers.',
+    'Equipped with an inquisitive mindset, I am often the one to explore things outside my comfort zone to learn more. Being an efficient programmer with apposite problem solving skills, I have practised over 1000 questions from various coding websites which helped me achieve a strong grasp over concepts of data structures and algorithms. Currently, I hold a rating of 1839 at Codechef (harshit_2300) and a specialist at codeforces (harshit_2300). I function well independently and in synergy with my peers.',
   paragraphThree:
     'Being proficient in English speaking with good communication skills I love sharing ideas with different people with different mindsets.',
 
   resume: 'https://drive.google.com/file/d/1qlcr9n_yke_VN9UEEImY7qJYZLXvWcIP/view?usp=sharing', // if no resume, the button will not show up
+  
 };
 
 // PROJECTS DATA
